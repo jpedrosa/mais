@@ -1,0 +1,24 @@
+{
+  "name": "mais",
+  "version": "0.0.1",
+  "description": "Mais is a TypeScript/JavaScript experimental project that will host many modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpedrosa/mais.git"
+  },
+  "author": "Joao Pedrosa <joaopedrosa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpedrosa/mais/issues"
+  },
+  "homepage": "https://github.com/jpedrosa/mais#readme",
+  "devDependencies": {
+    "@types/node": "^6.0.38",
+    "rollup": "^0.34.13",
+    "typescript": "^2.0.2"
+  }
+}
